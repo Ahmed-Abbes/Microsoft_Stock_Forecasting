@@ -5,12 +5,12 @@ You can download the updated version of the dataset from this link: "https://fin
 
 Requirements:
 
-    	pip install datetime
+  	pip install datetime
 	
-	pip install numpy
+		pip install numpy
 	
-	pip install pandas
+		pip install pandas
 	
-	pip install matplotlib
+		pip install matplotlib
 	
-	python3 -m pip install tensorflow
+		python3 -m pip install tensorflow
